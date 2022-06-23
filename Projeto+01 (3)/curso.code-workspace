@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads\\curso"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\MPDZ-cronometro-master\\MPDZ-cronometro-master"
+		},
+		{
+			"path": "..\\curso\\arquivos\\curso_Udemy"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\curso\\curso\\bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "curso"
+	}
+}
